@@ -1,10 +1,8 @@
-# YouTube Clone
-
-This project is a clone of the popular video-sharing platform YouTube, developed as a part of Akshay Saini's Namaste React course. It is built using modern front-end technologies, including React, Redux Toolkit, TailwindCSS, and other libraries.
+# Video Stream Application
 
 ## Features
 
-- **YouTube Clone:** The project is a replica of the YouTube platform, including its UI design and functionalities.
+- **YouTube:** The project is a replica of the YouTube platform, including its UI design and functionalities.
 - **YouTube Video List:** The app displays a paginated list of YouTube videos fetched from the YouTube API. The list supports lazy loading to enhance performance.
 - **YouTube Video Preview:** Clicking on a video in the list opens a preview window that displays the selected video. The preview window includes basic details of the video, such as its title, description, and view count.
 - **Search Suggestions:** As the user types in the search bar, the app displays a dropdown list of suggested search queries. This feature enhances the user experience and makes it easier to find relevant videos.
@@ -27,7 +25,7 @@ To use this project, follow these steps:
 
 ## Conclusion
 
-This YouTube clone project demonstrates how to build a modern web application using React, Redux Toolkit, TailwindCSS, and other libraries. The project includes several useful features, such as search suggestions, search caching, optimized search using debouncing and caching, optimized API calls using debouncing, comments section, and live chat. These features are not only useful for a YouTube clone but can be applied to any large-scale web application. The project can be used as a starting point for building similar web applications and as a reference for learning how to implement advanced features in React.
+This YouTube clone project demonstrates how to build a modern web application using React, Redux Toolkit, TailwindCSS, and other libraries. The project includes several useful features, such as search suggestions, search caching, optimized search using debouncing and caching, optimized API calls using debouncing, comments section, and live chat. These features are not only useful for a YouTube clone but can be applied to any large-scale web application.
 
 ## Dependencies
 
